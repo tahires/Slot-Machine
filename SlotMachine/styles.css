@@ -1,0 +1,29 @@
+
+
+.flex-container {
+  display: flex;
+  
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+#spin{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    vertical-align: center;
+    position: absolute;
+  left: 900px;
+  top: 150px;
+    
+}
+h2 {
+  text-decoration: overline;
+  font-size: 6opx;
+}
